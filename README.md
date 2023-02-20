@@ -1,1 +1,1 @@
-# Mental-health-sentiment-analysis
+I created a word cloud for this project using words from both positive and negative comments. The entire dataset was then split into a training set and a testing set, and a logistic regression model was created on the training set before being tested for accuracy on the testing set.
